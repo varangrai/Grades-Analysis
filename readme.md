@@ -6,6 +6,7 @@
 * Final model was finally able to achieve an R2 score of ``0.701``!
 
 
-*Sample Results*
+# Sample Predictions
+
+![](Images/Sample_Result.jpg)
 _____________________________
-![alt text](https://media-exp1.licdn.com/dms/image/C4E22AQGoK_UYrbiunw/feedshare-shrink_2048_1536/0/1595342470045?e=1620259200&v=beta&t=VeuJ_G3EW_V0zQ5hOdm7l6woHRuE4akpVpm-zEn1zcg)
